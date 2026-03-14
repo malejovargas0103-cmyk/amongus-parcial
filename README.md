@@ -1,4 +1,4 @@
-# amongus-parcial
+# impostor-parcial
 
 Mauro Vargas-1121135
 
